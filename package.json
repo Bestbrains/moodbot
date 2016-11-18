@@ -24,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/Bestbrains/mrbrain/issues"
   },
-  "homepage": "https://github.com/Bestbrains/mrbrain#readme"
+  "homepage": "https://github.com/Bestbrains/mrbrain#readme",
+  "dependencies": {
+    "botkit": "^0.4.1"
+  }
 }
