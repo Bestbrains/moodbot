@@ -1,0 +1,28 @@
+{
+  "name": "mrbrain",
+  "version": "0.0.1",
+  "description": "Keep your team healthy and happy.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bestbrains/mrbrain.git"
+  },
+  "keywords": [
+    "slack",
+    "bot",
+    "npm",
+    "ES6",
+    "node",
+    "wellbeing",
+    "motivation"
+  ],
+  "author": "bestbrains",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Bestbrains/mrbrain/issues"
+  },
+  "homepage": "https://github.com/Bestbrains/mrbrain#readme"
+}
