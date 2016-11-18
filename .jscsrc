@@ -8,5 +8,6 @@
     "requireCamelCaseOrUpperCaseIdentifiers": null,
     "requireCurlyBraces": null,
     "validateIndentation": 4,
-    "requireSpaceAfterComma": true
+    "requireSpaceAfterComma": true,
+    "requireSemicolons": false,
 }
